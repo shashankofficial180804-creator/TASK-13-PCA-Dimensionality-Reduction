@@ -2,6 +2,7 @@
 PCA Dimensionality Reduction on MNIST dataset using Scikit-learn. Includes feature scaling, explained variance analysis, dimensionality reduction, logistic regression accuracy comparison, and 2D PCA visualization to understand variance–accuracy trade-offs.
 
 📌 Task 13: PCA – Dimensionality Reduction
+
 🔍 Objective
 
 To understand how Principal Component Analysis (PCA) reduces dimensionality while preserving maximum variance and to analyze its effect on classification accuracy.
