@@ -38,9 +38,7 @@ Selected optimal components using cumulative variance
 Transformed dataset into reduced dimensions
 
 Trained Logistic Regression on:
-
 Original dataset
-
 PCA-reduced dataset
 
 Compared accuracy scores
