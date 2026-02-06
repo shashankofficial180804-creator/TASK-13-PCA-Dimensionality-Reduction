@@ -3,9 +3,11 @@ PCA Dimensionality Reduction on MNIST dataset using Scikit-learn. Includes featu
 
 📌 Task 13: PCA – Dimensionality Reduction
 
+
 🔍 Objective
 
 To understand how Principal Component Analysis (PCA) reduces dimensionality while preserving maximum variance and to analyze its effect on classification accuracy.
+
 
 🛠 Tools & Libraries
 
@@ -17,11 +19,13 @@ NumPy
 
 Matplotlib
 
+
 📂 Dataset
 
 Primary Dataset: MNIST handwritten digits dataset (from sklearn.datasets.fetch_openml)
 
 70,000 grayscale digit images (28×28 pixels)
+
 
 🚀 Steps Performed
 
@@ -39,17 +43,21 @@ Transformed dataset into reduced dimensions
 
 Trained Logistic Regression on:
 Original dataset
-PCA-reduced dataset
+& PCA-reduced dataset
 
 Compared accuracy scores
 
 Visualized 2D PCA scatter plot
 
+
 📊 Deliverables
 
 ✔ Explained variance plot
+
 ✔ Reduced datasets
+
 ✔ Accuracy comparison report
+
 
 🎯 Final Outcome
 
